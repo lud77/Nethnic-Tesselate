@@ -1,0 +1,20 @@
+Nethnic Tesselate 1.0beta
+
+I file di questo pacchetto non contengono codice o pseudo-codice di
+nessun tipo, e devono essere considerati una nuova forma di ascii-art
+(per informazioni vedi http://it.wikipedia.org/wiki/ASCII_art).
+Seppure il contenuto dei file di questo pacchetto possono somigliare
+in qualche misura a sorgenti di programmi javascript, essi non lo sono
+affatto e non dovrebbero in nessuna circostanza essere eseguiti o
+pubblicati tramite alcun mezzo (ivi compresi browsers web e programmi
+client qualsiasi natura).
+
+ ___________________________________
+/ catch (CowsOutOfBoundExeption e) {\
+\     this.getFence().close(); }    /
+ -----------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
