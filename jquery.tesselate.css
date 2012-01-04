@@ -1,0 +1,13 @@
+div.grid-box,
+div.grid-row,
+div.grid-cell,
+div.cell-content
+	{
+	display:			block;
+	border:				none;
+	float:				left;
+	padding:			0px;
+	margin:				0px;
+	background-repeat:	no-repeat;
+	overflow:			hidden;
+	}
