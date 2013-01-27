@@ -3,11 +3,12 @@
     "title": "jQuery Tesselate Grid-based FX",
     "description": "jQuery plugin to apply standard jQuery transition effects to images on a grid basis.",
     "keywords": [
-        "effects",
+        "effect",
         "grid",
         "images",
         "gallery",
-        "slideshow"
+        "slideshow",
+        "animation"
     ],
     "version": "1.0.0",
     "author": {
