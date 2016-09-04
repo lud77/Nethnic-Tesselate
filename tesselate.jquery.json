@@ -12,7 +12,7 @@
     ],
     "version": "1.0.0",
     "author": {
-        "name": "Nethnic Srl",
+        "name": "Stefano Butera",
         "url": "http://www.nethnic.com/"
     },
     "licenses": [
@@ -22,7 +22,6 @@
         }
     ],
     "bugs": "https://github.com/lud77/Nethnic-Tesselate/issues",
-    "homepage": "http://www.nethnic.com/pages/projects/tesselate/",
     "download": "https://github.com/lud77/Nethnic-Tesselate",
     "dependencies": {
         "jquery": ">=1.7"
