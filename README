@@ -1,12 +1,9 @@
 Nethnic Tesselate 1.0beta
 
-Tesselate is a jQuery plugin written by Stefano Butera of Nethnic Srl.
+Tesselate is a jQuery plugin written by Stefano Butera.
 It allows you to apply standard jQuery transition effects such as fadeIn,
 fadeOut and custom animation of CSS properties to normal images based on
 a grid layout.
-Take a look at the docs and demos on the main page of the project to see
-how it works and what its limits are:
-http://www.nethnic.com/pages/projects/tesselate
 
 Tesselate is released under the LGPL licences, as stated below.
 
